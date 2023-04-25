@@ -1,0 +1,595 @@
+x,y,filename
+0.1807221970042532,-0.00888141839951593,Create a programming language
+0.1937672659716585,0.012076726310054185,Programming languages
+0.15571623644553798,0.20061575833938922,Inspectional reading
+0.0995334111613989,0.17754221643313392,Reading philosophy
+0.13830865160639744,0.2086328592351824,Reading imaginary
+0.17109416823743628,0.2512539864492407,Reading technics should differ depending on book type
+0.15774566920953054,0.13238921307596607,Elementary reading
+0.18343912877793697,0.2121373935351643,Re-reading books
+0.1371138531718687,0.21020473217300012,Evaluate a book
+0.11864282257183231,0.15823959398211762,Syntopical reading
+0.17651787996616217,0.2528384255157085,The four levels of reading
+0.14220187365504527,0.18602264096684368,Reading science and mathematics
+0.19539522129368656,0.16665357118601878,Speed reading
+0.1700920057616546,0.1855232357670439,Selective reading
+0.170419501761837,0.1421693496444735,Reading history
+0.1261158193424981,0.09470272184034294,Reading biographies
+0.14392691417087325,0.21187271312444803,Reading digests
+0.17682639492583957,0.11309182115392803,Reading news
+0.1470128870651733,0.2486266467651186,Analytical reading
+0.1666308159210264,-0.0901055700664603,Augmented reality
+0.1847211729729171,-0.10047626033497144,AR devices
+0.16254063194034268,-0.08144878409360912,Mixed reality
+0.179951881146709,-0.09216752072021048,No-code tools for AR
+0.23437716412164325,-0.025025856937958682,Video
+0.21454041958162434,-0.08274328970374074,Premiere Pro
+0.244762945210778,-0.050282261541990135,Make great videos
+0.14367414681579346,-0.11192511925938527,Hyperinflation
+0.1754142068230111,-0.04050836787978211,Printing more money could create inflation
+0.1255321864253831,0.004511759912372309,Music theory
+0.17933917502837715,-0.10001393059629597,One drop pattern
+0.18962764075814964,-0.03612204395966976,Circle of fifth
+0.1516302894840749,-0.07921479362572033,Harmonic Minor
+0.14910751981514717,-0.07119280250214474,Contrapuntal music (in film)
+0.13391084311408774,-0.07134365003618408,Chords progressions
+0.2221095138778923,-0.10775950700599413,Freemium
+0.20755013674769668,-0.006576952374410523,Writing on Medium
+0.16638102978133565,-0.0778475050075282,Newsletters
+0.1588280753943879,-0.052530354406700355,Somatosensory
+0.2506876477096015,0.04287642203560249,Working memory
+0.16325061334291877,-0.08250530023014536,Hardware
+0.1834042431222207,-0.12171353056231954,DSP (Digital Signal Processor)
+0.11812097323805228,-0.09316489610483186,ALU (Arithmetic Logic Unit)
+0.16511385770036588,-0.1329742396866588,Raspberry Pi
+0.17772098536303982,-0.1414589131830913,ARM (Advanced RISC Machines)
+0.2019534037712052,-0.05432780702151752,RAM (Random-Access Memory)
+0.07964899554903986,-0.14330790547526598,Places
+0.08791754779114974,-0.05435297296168975,Third places
+0.05699593734097744,-0.09669884635325335,State controlled saving plans
+0.1732489672387253,-0.0402540774048287,Stock markets
+0.15305557269080597,-0.042567220119476556,Real estate
+0.033183113730552674,0.07320244166679349,Old books
+0.16781008545153808,-0.08040432855881777,Cryptocurrencies
+0.141279424657687,-0.10709359040946607,Exchange Traded Funds (ETF)
+0.220543735083521,-0.022903591212775083,Saving habit
+0.217126312942913,-0.04978677145952094,Emergency fund
+0.18851475117369593,-0.0385971781865894,My investment strategy
+0.19279923239439856,-0.03176637044380869,Personal finances
+0.10946717930484146,-0.10554354480688838,AudioSet dataset
+0.17577925206556588,-0.09159014038804501,Sound classification
+0.14218049987500514,-0.08324144214145271,Mel Spectogram
+0.11882529301037423,-0.07324979635392254,Welcome in my mind 🧠
+0.18965753147686454,-0.07616083632957021,Soundproofing
+0.2255374238591841,0.1183503516610607,The zettelkasten method and how to take smart notes
+0.22063921366542377,0.06734057244607829,Fleeting notes to capture thoughts
+0.2138579014881144,0.058400056319911554,Zettelkasten for musicians
+0.2038058300301121,0.02779029995547772,Open-closed principle makes Zettelkasten closer to its original design
+0.1625505472439625,0.13361315220133616,Litterature note to quote and reference content
+0.2542727153740538,0.18420176139025982,Writing is the only thing that count
+0.2087055315296734,0.10478031487694038,Permanent notes to link and develop
+0.138858974157902,0.1920066415952919,202107062037 Critics need rhetoric
+0.11882991556948277,0.26242982708287454,"202107071942 Books never solve practical problems, action does"
+0.2272537919284529,0.12939474374322624,202106122210 Expert can rely on their intuition
+0.26099337052548227,0.10391260362247674,"202107032023 Don't be an expert, make unexpected connections instead"
+0.2737929365267179,0.08824764049237596,202106201717 Avoid immobility by starting projects as drafts
+0.1259620766345515,0.11945537928241727,202107062101 Don't read with a dictionnary
+0.22922164562621222,0.13756111924891962,202106131144 Learning has multiple phases
+0.1181602899860494,0.23165342016174092,202107061345 Interpretative reading
+0.19782675635798003,0.08270413984523704,202106152233 Thinking about solutions to previous problem helps finding creative solutions
+0.11676175567180713,0.24420556397978488,202107071935 The two types of practical books
+0.10258737553952683,0.016738848108735344,202109222330 Is Thus Spake Zarathoustra has any historical fundements?
+0.1960052264917036,0.14941016610248847,202106172137 Writing a lot trigger the large number theory on finding great topics
+0.22300639943222345,0.16905269723833297,202106122212 Better taking note by hand
+0.13171801571055766,0.25278705270100016,202107062109 Don't use extrinsic aid synchronously
+0.09427027758150962,0.16281614352349483,202107062046 Book completeness as an indiscutable argument
+0.1503490441637826,0.14508485484611577,202106270022 Teaching require empathy
+0.15120444253044232,0.21307272142896735,202106290039 Don't stop on unknown references when reading
+0.197599807868711,-0.0035733010168614117,202106270039 Best collectors are artists
+0.09938010052613304,0.1922029270850849,202107072126 Imaginary litterature is harder to read
+0.26164619654472104,0.11011769211307837,202106122322 Remembering is bringing back memory to conscious mind
+0.20791701386890138,0.12227034035749679,202106122339 Don't worry about slipbox's completeness
+0.2787962030076457,0.05785436497999302,"202107032032 Focus is for executing, openess is for creativity"
+0.15913441590837563,0.15583541446811439,202106131132 Litterature notes helps comparing different authors ideas
+0.21547938874988226,0.06718343208118249,202106152303 Laxism is a threat to creativity
+0.15822496420464857,0.11386241759381376,202107272301 Our mental growth don't have limit
+0.14525319464743056,0.10686172565798747,~ What are litterature notes?
+0.23667357104954787,0.23239762434842673,202106122307 Reading with a pen in hand is a way to test our understanding
+0.22601723277751906,0.16791094384499994,202106122336 Understanding improve strenght retrieval
+0.15026523079071413,-0.03369129379730221,"202106270036 Don't search for good taste, search for pleasant things"
+0.19708250922457368,0.09159617036470585,202106122329 Multiplying notes connections free us from unexpected cues
+0.0964980765799739,0.05091677231990671,202106270049 Collectors should have an antilibrary
+0.2266583390786816,0.07293212982128222,202106201723 Learning shouldn't be linear but graph oriented
+0.13310162759002175,0.18266276639736517,202107072122 Be careful about practical book's propaganda
+0.10218148532339741,0.24258549037009206,202107071931 Analytical reading apply on non-fiction
+0.21768926408215677,0.1183419273863468,202106131120 Index notes like a writter
+0.21701739793483144,0.032337452723042406,202106131155 Paradigm shifts comes from little steps toward a direction
+0.21868177338360634,0.05593173885729381,202106152243 Creativity and thinking better flourish under restrictions
+0.23729478861474343,0.13850864543206673,202106122248 Storing notes in our slipbox is investing in ourself
+0.20072489152032266,0.0925454333382693,"202106122343 The slipbox is a tool to think in, not about"
+0.21728120782826651,0.09327048987335504,202106152240 Solutions are just trade offs and can't be perfect
+0.17872268282107698,0.10466199146796429,202106270032 Aided and unaided learning
+0.11801603258040097,0.17143714035504415,202107032150 Questioning a book to read more actively
+0.12883972876553706,0.228661099495394,202107061349 Criticizing a book is a reader obligation toward the author
+0.14165081114423908,0.1176929750181333,202107052315 Grasp author's key sentences and arguments in a book
+0.2512815862858846,0.20417300080301698,202106122315 Reading without writing isn't learning
+0.1776798940348452,0.2236550324060849,202106270021 The three kinds of reading
+0.19163115936459377,0.09269936528136215,202106131114 Note connections helps find patterns accross non related subjects
+0.1702148528945308,0.15144711572229708,202107052256 Find the important keywords in a book help analysis
+0.22837004887788032,0.1277818150741341,202106152224 Finding creative and functional solutions require abstraction
+0.16744567256253898,0.2476694764008008,202107062058 Read with exigence
+0.22702180974631112,0.07557054640999829,202106152315 Zettelkasten make the act of choosing topic seamless
+0.22920395475133262,0.08072247798022077,202106122321 Forgetting is active inhibition
+0.20999240203887434,0.18579365614022716,202106122246 Smart notes are about thinking beyound actual context
+0.22524090327870205,0.1366541782079613,202106172158 Finding unheard ideas require open-mindness
+0.24654576150823232,0.13516217696493135,202106152227 Knowing failures helps as much as knowing successes
+0.1768213829561745,0.13277245013295835,202107272232 Zettelkasten and digital gardening is syntopical writing
+0.1918523156198411,0.2204330762799528,202106242157 There's various level of active reading
+0.20971652019858508,0.12459050157478141,202106122221 The slipbox should be agnostic
+0.2700144794690829,0.1872020833128359,202106122244 Reformulating ideas enlarge our set of thinking tools
+0.14582063098491344,0.20097893559392802,202107272303 Geniuses characteristics
+0.21540320848856262,-0.07889019827974586,Transistors
+0.1982142580710198,-0.07282474065749468,Electronics
+0.22187898162939748,-0.0703739974612758,Logic gates
+0.11401649999591205,-0.1043058059449034,Wiring audio cables
+0.14766446803754354,-0.11927790864211762,Nixie tubes
+0.19561162492415696,-0.05965441516905813,Universaly complete set
+0.22751631206495093,-0.09517867040967119,Removable soundproofed studios
+0.23020746356279406,-0.06502162533160467,Arranging studios in a building
+0.05111288925187933,-0.1611388677324877,Preamp
+0.18289637365958644,-0.10307284632797614,Compressor
+0.20906750529176132,-0.05832707675350808,Monitors
+0.17192580962105117,-0.11316549481807131,Distortion
+0.17310662078956934,-0.10434927002678406,Microphones
+0.188367653585287,-0.10399598864991429,Audio interface
+0.21456447928810987,-0.09635458890177971,Top of the line studio gear configurations
+0.028870448061698542,0.041280693855824294,Books and Binders
+0.16379548251603235,-0.04161871840227647,A brief computer history
+0.18542978477052524,-0.05059190823493151,SOLID
+0.21311065906202764,-0.03941638023132166,Turing completeness
+0.1446136773014315,-0.055119829479421435,Oriented Object Programming
+0.14360661976594485,0.01386963725989171,Memex
+0.1951785505698373,0.013967648635428976,202106122320 Differences between Slipbox and Second-brain?
+0.11128868768652339,0.137664627743283,202109222326 Thoughts fragment
+0.19150532427093964,-0.016808640179431008,202106152307 Restrict time on tasks to focus on the real value
+0.15718642227585303,-0.037090832946785154,"202107061403 Memex, second brain, PKM, digital garden, what's the differences?"
+0.2143391154903296,0.01308906292824669,202106131148 Practice jazz improvisation by following learning phase principle
+0.2096906805811215,0.002129714703049751,202106152301 Binary code has the best restriction-output ratio
+0.20516148111075994,0.034942481404324315,202106152252 Imposing restrictions to fight the blank page syndrome
+0.16307245019750335,0.0919554792593128,~ What are fleeting notes?
+0.21290517608147697,0.03337323187082783,202106172218 Slipbox can make working on multiple manuscrits at the same time seamless
+0.18472534030479065,-0.08556953551646954,202109181532 Domestic Cozy
+0.2702021197831319,0.016442794609393175,202106172211 Focus isn't what we do but what we don't do
+0.06382584910813754,-0.04927802206136856,202107122234 Quadrivium and Trivium
+0.15387666281865653,0.21773690501530443,202106290027 Make analytical TL;DR of chapters in books
+0.22302920694902878,0.06835488869968431,202106122301 Viewing notes toward the Golden Circle framework helps stating on the relevance of ideas
+0.17555848795864168,0.05626893021337521,202106122255 Empty notes are better than no notes at all
+0.13286985219142497,0.014851778032692688,Axioms
+0.17936546167579853,-0.05650173799174522,Normal distribution
+0.11810444156257897,-0.12612084525636535,Mixing fundings strategy
+0.16190889527439806,-0.11854352497084264,Seed round
+0.21715147593054507,-0.08643160437898166,Pitch deck
+0.24753632483723764,-0.03728819510650822,Fundraising
+0.18326226953135646,-0.08553775596340063,VC lists
+0.09728656151738185,-0.14012217995391973,Pitching a VC - SaaS case
+0.23403820586909146,-0.08879893183311961,Making underwater videos
+0.22800370166271652,-0.08953103329648886,Gas blending
+0.16568467172350124,-0.16431532740820756,Hyperoxic trimix
+0.16454613082507938,-0.14228069322270434,Normoxic trimix
+0.16368967941394816,-0.06951930627909679,Partial pressure
+0.19921989403007898,-0.11709165315709302,Nitrox
+0.17834886700748528,-0.15222623956232856,Hypoxic trimix
+0.20379249808952007,-0.15631625043103994,Trimix
+0.16126345827178518,-0.10260424240940498,Hyperoxia
+0.2176233671890861,-0.10007936271085174,Nitrogen narcosis
+0.21193981291105074,-0.11364737350396467,Decompression sickness
+0.19564126838519155,-0.08913043987636911,Scuba diving
+0.06642098754411481,-0.10153919921682335,Redbone - Childish Gambino
+0.10440760683779192,-0.12739693645445255,Rapture - Koffee
+0.05536890380732468,-0.06254695928173673,Giant Steps - John Coltrane
+0.0262500728532835,-0.10727407096883446,Armando's Rhumba - Chick Corea
+0.11758628171684347,-0.05967900628131924,~ Full list of the song I learned - Map of content
+0.06339698077514197,-0.07008930683373334,Nemesis - Aaron Parks
+0.08765821519556977,-0.06619914612251829,All the things you are - Jerome Kern
+0.1136346578782908,-0.09829659682941665,Running Away - Bob Marley and the Wailers
+0.0882170608004318,-0.10989226004472925,Crazy Baldhead - Bob Marley and the Wailers
+-0.1352748800594091,-0.04945167133243429,Voyage Autour Du Monde (Tome I) - Dumont D'urville
+-0.08912672129313169,-0.07213250002901729,"Plongées Autour Du Monde - Jean Bernard Carillet, Olivier Oudon"
+-0.12925334321622273,0.004057644828529975,"Encyclopédie Progressive Ou, Abrégé Des Sciences, Des Arts Et Des Connaissances Utiles (Tome II) - Mlle M. Forgame"
+-0.21809917806321008,0.004036098106044625,Les Voyages D'Ulysse - Mythologie
+-0.2089923291886317,-0.025499711211008927,"Rap Ta France - José Louis Bocquet, Philippe Pierre Adolphe"
+-0.11522865814095132,-0.004715480879179336,Dilemmes De Prisonniers Et Stratégies Dominantes : La Théorie Des Jeux #7 - Fernando Corbalán
+-0.2176618981622627,-0.00040520859431809,Vie Privée De Louis Xv   Tome Premier - Unknown
+-0.2053340623679621,0.04879400716081114,Tout Alice - Lewis Carroll
+-0.01701922177594557,0.16044753942057893,The Smart Thinking Book - Kevin Duncan 
+-0.08757286614355156,0.022359260009398807,Devenez Un Grand Orateur Ted   Les 9 Secrets Des Prises De Paroles Les Plus Brillantes - Carmine Gallo
+-0.1714411917913285,0.009496305947149007,Théâtre Complet Tom 2 - William Shakespeare
+-0.14981063082982352,0.09613689386264825,La Lecture Rapide - Tony Buzan
+-0.1821422420300007,0.01758183873206772,La Vie Secrète Des Nombres : Les Bizarreries Des Mathématiques #27 - Joaquín Navarro
+-0.17468288987511635,0.04166755665340552,"Construction 4.0 - Karim N’essaie, Christian Grellier, Edward Woods "
+-0.109449573563202,0.04277671213669219,Tout Le Monde N'a Pas Eu La Chance De Rater Ses études - Olivier Roland
+-0.17459541691390934,0.047568640812203536,Sur Le Rêve - Sigmund Freud
+-0.22588383457537112,-0.047179079256134626,"Le Royaume Des Animaux 21 : Python Rous - Maurice Burton, Robert Burton "
+0.04382330699730123,0.04092527396079592,The 4-hour Workweek - Tim Ferris
+-0.14817548730493924,0.06368604776379011,Les Onze Lois De La Réussite - Anthony Robbins
+-0.14144000718175617,0.02721417964644551,Business   Les Grandes Idées Tout Simplement  - Various
+-0.12483401763405486,0.00890665955024853,"Le Mythe De La Singularité, Faut Il Craindre L’intelligence Artificielle ? - Jean Gabriel Ganascia"
+-0.21198940928821017,-0.012558140794047271,Voyages Extraordinaires : Les Indes Noires  - Jules Verne 
+-0.19203297830252317,0.04108807445822504,Les Oracles De Nostradamus : Tome 2 - Nostradamus
+-0.15901808869574893,-0.0026931932217301386,Le Papillon Et La Tornade : Théorie Du Chaos Et Changement Climatique #28 - Carlos Madrid
+-0.2117944005651642,-0.009751234582737193,"Dictionnaire 1965 Vol 3 : No Z - Augé, Gillon, Holier Larousse, Moreau"
+0.054847710255095806,0.04598948855169127,Making Music - 74 Creative Strategies For Electronic Music Producers - Dennis De Santis
+-0.24199370865292238,-0.027295062794385646,"Le Royaume Des Animaux 11 : Grand Herm - Maurice Burton, Robert Burton "
+-0.17318285653807777,0.023192396449633182,L'art De Compter : Combinatoire Et énumération #30 - Juanjo Rué
+-0.14377615753418183,0.0277152842567333,"Exercices De Piano Pour Les Nuls - David Pearl, Marc Rozenbaum"
+-0.13338021599423527,0.004859615149806887,Thérèse Raquin - émile Zola
+-0.14626512035403705,-0.03676713486062769,"Trap, Rap, Drogue, Argent, Survie - Guillaume Heuguet & Etienne Menu"
+-0.09465161838866509,0.0013303200766911665,"Encyclopédie Progressive Ou, Abrégé Des Sciences, Des Arts Et Des Connaissances Utiles (Tome I) - Mlle M. Forgame"
+-0.15958348934882058,0.013237570882369288,Exploration Sans Limite : L'infini En Mathématique #16 - Enrique Gracían
+-0.224421528274667,0.011408779241066782,Le Théâtre Au Xviiième Siècle - Beaumarchais
+-0.21346377147166665,-0.00552793393544259,Oeuvres Complètes : Théâtre - Guy De Maupassant
+-0.23428182742053086,-0.03950294822124247,"Le Royaume Des Animaux 22 : Rous Sarce - Maurice Burton, Robert Burton "
+-0.08499064989367856,0.0972949264120176,Computer Science Distilled  - Wladston Ferreira Filho
+-0.214174356410011,0.005729361116632345,Le Monde Du Jazz - Jim Godbolt
+-0.14821090447035487,0.05719475648476083,"La Machine De Turing  - Alan Turing, Jean Yves Girard "
+-0.20899459450196484,0.018018914423929635,Histoire Générale Et Particulière - Comte De Bufon
+-0.17537893852904177,9.77400860591596e-05,La Musique Des Sphères : Astronomie Et Mathématique #25 - Maria Ros
+-0.17677856960730334,0.026893403421877033,"1791, La Dernière Année De Mozart - H.C. Robbins Landon"
+-0.1864561365486228,-0.0026283980175037546,Missel Des Béatitudes - Unknown
+-0.18634613992909901,-0.015150216343595813,Petits Et Grands Musées De Paris - Valérie A Appert
+-0.2653340954572556,0.04240862921432126,De L'allemagne - Mme De Staël
+-0.22972618889603022,-0.0025287432911784025,"La Ruée Des Licornes - Nicolas Hazard, Anne Rodier"
+-0.16036092382039224,0.048510522378351656,Comment être Heureux - Arthur Schopenhauer
+0.033838982891369385,0.05767105499015731,~ My library - MoC
+-0.17093493044665156,0.06234523237672983,La Logique Ou L'art De Penser - Unknown
+-0.12071491241915742,0.04406792842057216,The relative and absolute encyclopedia of knowledge - Bernard Weber
+-0.2230507230311236,-0.041973365655302075,"Le Royaume Des Animaux 23 : Sardi Synbra - Maurice Burton, Robert Burton "
+-0.23564501954536846,-0.005796124538352573,Dictionnaire Des Auteurs Français - Unknown
+-0.21707415974004,-0.017342991521163587,"Dictionnaire 1965 Vol.1 : A Em - Augé, Gillon, Holier Larousse, Moreau"
+-0.2223075819045865,-0.016956554579109565,La Musique Des Origines à Nos Jours - Norbert Dufourcq
+-0.17081173598502358,0.02790547557089037,L'énigme De Fermat : Trois Siècles De Défi Mathématique #8 - Albert Violant Holz
+-0.22550062076792965,0.04071618376982816,Intempéries - R. Lehmann
+-0.08342880335710692,-0.020235305761998182,Germinal - Emile Zola
+-0.17965083768953935,0.008969065348547271,La Partition Intérieure - Jacques Siron
+-0.2337400861576555,0.0058119697025668625,Oeuvres Complètes : Chroniques Inédites I - Guy De Maupassant
+0.12368977855555613,0.24518691013633884,How To Take Smart Notes - Sönke Ahrens
+-0.1753630430509653,-0.039554896171112734,De La Lyre D'orphée à La Musique électronique - Jacqueline Jamin
+-0.24448776322341473,0.050359452157852626,Le Mystère Des Dieux - Bernard Werber
+-0.170161983765315,0.03659713821865698,La Certitude Absolue Et Les Autres Illustions : Les Secrets De La Statistique #26 - Pere Grima
+-0.15372522304382422,0.01101470311274875,"Traité Complet D’harmonie, Théorie Et Pratique  - Emile Durand"
+-0.22575155424524593,-0.005882178438674875,Au Capucin Gourmand - Henri Béraud
+-0.220796769662002,0.02795771227428826,"Jules Verne, Hetzel Et Les Cartonnages Illustrés - Philippe Jauzac"
+-0.24869873332708015,-0.044423362307477815,"Le Royaume Des Animaux 6 : Coul Des - Maurice Burton, Robert Burton "
+-0.15351929225088481,-0.0015884474950881404,"La Crise économique De 1929, Anatomie D'une Catastrophe Financière - J.K. Galbraith"
+-0.21962899549920495,-0.04883375102411284,"Le Royaume Des Animaux 16 : Migra Néoto - Maurice Burton, Robert Burton "
+-0.17416038601552297,0.03628534611899405,"Chopin, Vie Et Oeuvre - Sylvie Oussenko"
+-0.22202076687064592,0.01915692378333221,L'art Poétique - Nicolas Boileau
+-0.22042145799976354,-0.036881053261539884,"Le Royaume Des Animaux 2 : Asi Bub - Maurice Burton, Robert Burton "
+-0.22152393246778035,-0.03917008049450093,"Le Royaume Des Animaux 19 : Phalan Podar - Maurice Burton, Robert Burton "
+-0.1572122877084844,-0.012602820594597264,Sur Le Bout De La Langue   Le Plaisir Du Mot Juste - Bertrand Périer
+-0.14419705609010583,0.06817851641220188,Animal Farm - Georges Orwell
+-0.23846794043355413,-0.028101455955254147,"Le Royaume Des Animaux 18 : Ours Phalan - Maurice Burton, Robert Burton "
+-0.2057830947421277,0.03585939652722927,"Le Cid, Horace, Cinna, Polyeucte - Corneille"
+-0.13372978017718853,-0.015062197136597403,Habiter Demain - Bouygues Construction
+-0.12270769798932361,0.04607422429370778,Cabinet Of Wonders - Viktor Wynd's
+-0.03204666121839175,0.07141374895686192,The Art of Controversy - Arthur Schopenhauer
+-0.21511032741185981,-0.057692185965640234,"Le Royaume Des Animaux 15 : Maca Mésite - Maurice Burton, Robert Burton "
+-0.14931162522720925,0.0243515829582422,Petit Cours D'autodéfense Intellectuelle - Normand Baillargeon
+-0.14176710949679583,0.0027719878153089827,Théorie Des Musiques Actuelles Par L’écoute - Jean Christophe Hoarau
+-0.22137184636416715,0.051675018976224084,Les Frères Karamazov I - Dostoïevski
+-0.0279872482009891,0.059986660677339196,Anyone Can Become An Entrepreneur - Oussama Ammar
+-0.1457997276448024,0.04216426672551633,Human Machine  - Jean De La Rochebrochard
+-0.20071878784659866,-0.016735522076837678,"Xavier Niel : La Voie Du Pirate  - Solveig Godluck, Emmanuel Paquette "
+-0.20862083174495732,-0.0347649805282404,"Le Royaume Des Animaux 20 : Pogon Pyros - Maurice Burton, Robert Burton "
+-0.05126939763631954,0.13402733735715916,Essentialism - Greg Mc Keown
+-0.16284321513551622,-0.010197259286961677,La Quatrième Dimension : Notre Univers Est Il L'ombre D'un Autre ? #5 - Raúl Ibáñez
+-0.007139793389898133,0.004628572775839099,The Art of Noise - Luigi Russolo
+-0.1670782553907328,-0.0015113651572975263,La Planète Maathématique : Un Voyage Numérique Et Géométrique à Travers Les Monde #36 - Miquel Albertí
+-0.14909312638882588,0.08142980068843146,Taschen's London - Agelika Taschen
+-0.12036134421709553,-0.024453187690872125,Journey to the center of the earth - Jules Verne
+-0.17449223469465056,0.04480822999697886,Aide Mémoire De L’ingénieur  - Philippe Huguenin 
+-0.22027886157105622,-0.006769354451257377,Vingt Mille Lieues Sous Les Mers - Jules Verne
+-0.17333301715117036,-0.009482585031631432,"L'harmonie Est Numérique : Musique Et Mathématiques #11 - Javier Arbonés, Pablo Milrud"
+-0.1892598768861656,0.06532196458238335,Jane Eyre - Charlotte Bronte
+-0.21777694632232134,0.010700272955888395,Chroniques Du Règne De Charles Ix - Prosper Mérimée
+-0.1702049921967646,0.005678834492582978,100 Personnages Clés De La Mythologie  - Malcolm Day
+-0.13248724815954835,-0.01681723192810438,Jusqu'à Ce Que L'algèbre Nous Sépare : La Théorie Des Groupes Et Ses Applications #31 - Janvier Fresán
+-0.21576153681501622,-0.02647904768978994,"Andromaques, Britannicus, Iphigénie, Phèdre - Jean Racine"
+-0.129419515167022,0.05850933526449728,Steve Jobs - Walter Isaacson
+-0.17786848344816614,0.01055268811234865,La Poésie Des Nombres : Le Rôle De La Beauté En Mathématiques #23 - Antonio J. Durán
+-0.227180441891982,-0.05584287593204354,"Le Royaume Des Animaux 5 : Cig Coul - Maurice Burton, Robert Burton "
+-0.18272202788268535,-0.012384049564806723,Tombeau De John Coltrane - Xavier Deverat
+-0.06651372452284131,0.06657715711302323,Javascript And The Browser - Marijn Haverbeke
+-0.19320730099788125,-0.046551978513480086,"Musique Passion, Musique Galère Ou Les Déboires D'un Artiste - Daniel Theault"
+-0.24215886687660995,-0.0007715756639545129,La Comédie Des Animaux  - Joseph Méry
+-0.17424086056811217,0.0061251220649407145,Théâtre Complet Tom 3 - William Shakespeare
+-0.1286357458473415,0.05647111949538623,Libérez Votre Cerveau ! - Idriss Aberkane
+-0.1965282717157588,0.025174647469069073,James Brown - Philippe Manœuvre 
+-0.24671023032023454,-0.03320642614476395,"Le Royaume Des Animaux 10 : Four Grand - Maurice Burton, Robert Burton "
+-0.24807797933687986,0.021123609396966874,L'insurgé - Jules Vallès
+-0.14173195984588222,0.05709012958278337,European Litterature In Translaation - Jarndyce
+-0.13970237131850977,0.012654295753133269,"Musicophilia   La Musique, Le Cerveau Et Nous - Olivier Sacks"
+-0.1557977906431186,0.06241527372356384,Les Innovateurs - Walter Isaacson
+-0.19373355139989717,0.038534544927187914,Le Cosmos Et Le Lotus - Trinh Xuan Thuan
+-0.24015671247642822,-0.05184747859249739,"Le Royaume Des Animaux 3 : Buc Chal - Maurice Burton, Robert Burton "
+-0.07354999876121882,0.10091730398148939,Factfulness - Hans Rosling
+-0.18067440765905865,-0.010265729991829422,1001 Recettes : Cuisine Végétarienne - Unknown
+-0.2112762913493294,0.010235820475135816,Le Nombre D’or : Le Langage Mathématique De La Beauté #1 - Fernando Corbalán
+-0.060390142769550764,0.1199611187045611,Tools Of Titans - Tim Ferris
+-0.20222746753429507,0.034278222487576296,Le Livre Du Dessin Et De La Peinture - Various
+-0.20048160035257867,-0.012315576340160374,"Oeuvres Complètes : La Petite Roque, Mont Oriol - Guy De Maupassant"
+-0.1651960447331887,0.005780963260917387,L'éveil Musical Une Pédagogie évolutive  - Cristina Agosti Gherban
+-0.24293979631571533,-0.02746158228243328,"Le Royaume Des Animaux 9 : Fel Four - Maurice Burton, Robert Burton "
+-0.1475301739149413,0.010509375964868183,"Ruby, Les Fondamentaux Du Language - Alexandre Brillant"
+-0.2000703786312123,0.05487648007382935,Le Meilleur Des Mondes - Aldous Huxley
+-0.1850914132607893,-0.0006292273477163965,"Nombres Remarquables : Le 0, Le 666 Et Autres étrangetés Numériques #18 - Lamberto García Del Cid"
+-0.1564491397585385,-0.009212385498452077,Les Mathématiques De La Vie : Modèles Numériques Pour La Biologie Et L'écologie #38 - Rafael Lahoz Beltra
+-0.14460875164276418,0.021762291338914632,"Intelligence, Machines Et Mathématiques - L'intelligence Artificielle Et Ses Enjeux n°29 - Ignasi Belda"
+-0.15760016110971223,-0.018902215288677596,"Terra Data, Qu'allons Nous Faire Des Données Numériques ? - Serge Abiteboul, Valérie Peugeot"
+-0.13700586871276912,0.03605623910287616,La Vérité Réside Dans La Limite : Le Calcul Infinitésimal #12 - Antonio J. Durán
+-0.17269925990716134,0.00954349620089068,Les Nombres Premiers : Un Long Chemin Vers L'infini #3 - Enrique Gracían
+-0.19802196748060938,-0.019501506018493774,Voyage Autour Du Monde (Tome II) - Dumont D'urville
+-0.1685464961792413,0.027942957112736495,Immersion - Cedric Villani
+-0.08529110670559181,-0.00016345975455824393,Business Blockchain Pratiques Et Applications Professionnelles  - William Mougayar
+-0.1641512125435933,0.035550067270859215,La Mystification Des Sens : L'art Sous Le Regard Mathématique #14 - Francisco Martín Casalderrey
+-0.13814359991489805,-0.014103971431744721,Zeus Et La Conquête De L'Olympe - Mythologie
+-0.11743107885181159,0.02776621000004757,Tout Ce Que Vous Avez Appris Et Oublié En Math - Jan Van De Craats Et Rob Bosch
+-0.2004283017510266,-0.006080060391924313,Cours De Machines : Deuxième Partie  - Haton De La Goupilliere
+-0.2359386303827143,-0.020082681080219433,"Le Royaume Des Animaux 1 : Abe Ase - Maurice Burton, Robert Burton "
+-0.14826567030681476,0.01209903847381934,Tout Sur L'économie (Ou Presque) - Gilles Mitteau
+-0.2463585732285937,0.025614551139281717,Les Liaisons Dangereuses - Choderlos De Laclos
+-0.12420489786729684,-0.0274207255480187,Plans De Métro Et Réseaux Neuronaux : La Théorie Des Graphes #10 - Claudi Alsina
+-0.19833264470170928,0.024884679790733433,"Electrochoc - Laurent Garnier, David Brun Lambert"
+-0.14569821375873893,-0.006289810151798148,Traité D'économie Hérétique   En Finir Avec Le Discours Dominant - Thomas Porcher
+-0.08546025910448801,0.023562060616703583,Naturgeschichte Geologie Mineralreich Paläontologie - Dr. Friedrich Rolle
+-0.14166560570615228,0.07513026933014592,The Family Diaries - Alice Zagury
+-0.22264514283193113,0.04563375194335564,La Grande Histoire Du Monde - François Reynaert
+-0.19192054173582015,-0.004513080753135854,à Toi Qui N'est Pas Encore Né(E) - Albert Jacquard
+-0.22707223788569836,0.011802566293219765,L'art De La Victoire - Phil Knight
+-0.16809231534490454,0.030398633900544758,Les Avancées De L’intelligence Artificielle  - Olivier Ezratti
+-0.13171592086144884,0.05372883470041787,Le Pouvoir De Convaincre - Harvard Business Review
+-0.1787838151613267,0.012476569500314777,De L'autre Côté Du Miroir : La Symétrie En Mathématiques #15 - Joaquín Navarro
+-0.14591992902144912,0.005604040123417793,Huiles Essentielles Mode D'emploi - Sylvie Hampikian
+0.015144722415501166,0.12833991892443325,How to Win Friends and Influence People - Dale Carnegie
+-0.2091764917276023,0.033660882315951456,Le Club Des Mathématiciens : Les Congrès Internationaux #35 - Guillermo P. Curbera
+-0.15916281299537366,0.008420309860685083,"Considérations Sur Les Causes De La Grandeur Des Romains Et De Leur Décadence - Montesquieu, Buffon"
+-0.17083192167053504,0.029700465882391093,"Les Mathématiques Dans L'économie : Les Chiffres Et Leur Sens #39 - Lluís Artal, Josep Sales"
+-0.20797301174515756,0.007026436723271611,Banque Obc - Odier Bungener Courvoisier
+-0.2489040715735406,0.021172306905834565,L'île Au Trésor - R.L Stevenson
+-0.21255331190410695,0.035394693439440836,"Jules Verne, Le Musée Weissenberg - Boisgirard Antonini"
+-0.04803185457004662,0.027050464574233643,Cypherpunks Freedom And The Future Of The Internet - Julian Assange
+-0.008916020727182465,0.08121603311028491,Unlimited Power - Tony Robbins
+-0.18155337176799916,0.01261943545225898,Le Rêve De La Carte Parfaite : Cartographie Et Mathématique #22 - Fernando Corbalán
+-0.17110068233965137,0.01757235803518819,Théorie Mathématiques De L’électricité  - J. Bertrand 
+-0.1906137222292684,0.05655102200106732,Empty Book - No Author
+-0.2400184143984657,-0.03122941524961515,"Le Royaume Des Animaux 26 : Zancle Zygène - Maurice Burton, Robert Burton "
+-0.16537041639392763,0.04633033736215293,Les Grands Problèmes Mathématiques : 2000 Ans De Défis #40 - Joaquín Navarro Et Shalom Eliahou
+-0.2072971991671418,-0.003302664948701413,L'équation Du Nénuphar - Albert Jacquard
+-0.16895076739034942,0.05014273740149451,20 Histoires Pour Comprendre L'économie Mondiale - Alessandro Giraudo
+-0.16220982749288634,0.00775018653567942,"L’économie Comme Vous Ne L’avez Jamais Vu  - Jan Schwochow, Thomas Ramge"
+-0.14732999371084682,0.029124171688926465,"L’intelligence Artificielle, Pas Sans Elle !  - Ause Bernheim, Flora Bernheim "
+-0.22862553133057067,-0.0535880678304517,"Le Royaume Des Animaux 17 : Nèpe Ours - Maurice Burton, Robert Burton "
+-0.13951768760751088,-0.009903465531343032,Le Pédagogie De Groupe Dans Les Cours D’instruments De Musique  - Jean Claude Lartigot
+-0.17054693283281858,-0.02477635870077323,Rock’n’roll   Le Discothèque Rock Idéale 2 - Philippe Manœuvre 
+-0.17146442907799184,0.004195007769171933,Lève Toi Et Code   Confessions D'un Hacker - Rabbin Des Bois
+-0.18304142562900844,0.06278552445430849,Méditations Métaphysiques - René Descartes
+-0.08795159406178213,0.059736969650524864,The Artist In The Machine - Arthur I. Miller
+-0.07219115458181573,0.07290939903499291,Hackers Heroes Of The Computer Revolution - Steven Levy
+-0.21172137587744108,0.025322171966773586,Messages - Various
+-0.20798572903897933,0.03909874480400748,Les Sociétés Secrètes Et La Société Vol 1 - N. Deschamps
+-0.23413051647927843,0.03737098007643416,Les Misérables 3 - Victor Hugo
+-0.21836343170462574,0.051477411977023164,Les Frères Karamazov Ii - Dostoïevski
+-0.1260820473908665,0.09374382175028316,The Jewish State - Theodor Herzl
+-0.24870299867475587,0.022906484168324866,La Cousine Bette - Honoré De Balzac
+-0.1522103334943477,-0.0049135285208084575,Panorama Des Mondes Et Astronomie Planétaire - M. Lecouturier
+-0.22592516180023245,0.01272688200176956,Le Père Goriot - Honoré De Balzac
+-0.16227606399499417,0.04865123169297541,Elon Musk - Ashlee Vance
+-0.19095462222983092,-0.008844569379006928,Voyages Extraordinaires : Le Chancelor Et Martin Paz  - Jules Verne
+-0.22900654988616406,-0.03458573775850348,"Le Royaume Des Animaux 7 : Dia Ent - Maurice Burton, Robert Burton "
+-0.19326577777087856,0.005872890124486619,"Courbes Périlleuses : Ellipses, Hyperboles Et Autres Merveilles Géométriques #24 - Fernando Corbalán"
+-0.20157429497522045,-0.01862487318736449,"Oeuvres Complètes : Boule De Suif, La Maison Tellier, Premiers Contes - Guy De Maupassaant"
+-0.178588921884742,0.04365573228929454,Pensées Végétariennes - Voltaire
+0.06912254511071991,0.29482547633069955,"How To Read A Book, The Classic Guide To Intelligent Reading - Mortimer J. Adler, Charles Van Doren"
+-0.1731825555344824,0.011904192727467488,Théâtre Complet Tom 1 - William Shakespeare
+-0.16528770035917079,0.005956159534414949,Les Femmes Et Les Mathématiques : D'hypatie à Emmy Noether #33 - Joaquín Navarro
+-0.21786645748618932,-0.04444918988067166,"Le Royaume Des Animaux 24 : Syng Tréma - Maurice Burton, Robert Burton "
+-0.1502038285230493,0.020251987191184758,Jimi Hendrix - Jane L. Hendrix
+-0.21226966752411797,0.011993902065549428,"Oeuvres Complètes : Miss Harriet, Les Soeurs Rondoli, Contes Divers - Guy De Maupassant"
+-0.1575707253964081,0.044668869371225876,L'art De Se Lancer 2.0 - Guy Kawasaki
+-0.13911876819884,0.031612859883531734,Le Jazz : Un Modèle Pour Apprendre - Charles Calamel
+-0.18890171115585058,0.04195106789882567,Calcul Des Probalités  - J. Bertrand 
+-0.2287351877571644,0.04851936426742375,Les Admirables Secrets D'albert Le Grand - Albert Le Grand
+-0.1549422043624931,-0.005788966805429489,"Quand Les Droites Deviennent Des ""Courbes"" : Les Géométries Non Euclidiennes #37 - Joan Gómez"
+-0.22327322978163514,0.05586708765655871,Contes Philosophiques - Honoré De Balzac
+-0.05157661004786992,0.08010829694033691,The Way Up - Pat Metheny
+-0.12317342821717517,0.05180678347607059,L'art Du Calme Intérieur - Eckhart Tolle
+-0.025562180331948414,0.12231804953759065,"Who, The A Method For Hiring - Geoff Smart, Randy Street"
+-0.0922275185121631,0.011433632477132962,Quand La Machine Apprends - La Révolution Des Neurones Artificiels Et De L'apprentissage Profond - Yann Le Cun
+-0.22824935992463902,0.004043103635076083,"Le Tartufe, Don Juan, Le Misanthrope - Molière"
+-0.1916266225295828,0.038698615613936116,Les Oracles De Nostradamus : Tome 1 - Nostradamus
+-0.21399158586954464,-0.021640344893902708,"Dictionnaire 1965 Vol 2 : En Nn - Augé, Gillon, Holier Larousse, Moreau"
+-0.056622977244950926,0.03789598753115834,Code - The Hidden Language Of Computer Hardware And Software - Charles Petzhold
+-0.20814421801480462,0.03831280244639919,Les Femmes Savantes - Molière
+-0.1804106074401192,0.07205514258253948,"Bizarre Books - Russel Ash, Brian Lake"
+-0.13946777005739547,0.00568114736525193,"Codage Et Cryptographie : Mathématiciens, Espions Et Pirates Informatiques #2 - Joan Gómez"
+-0.18073865095772984,-0.029474564784662257,La Navigation Sous Marine  - G L.Pesce
+-0.018795617302094426,0.10625647324271296,"Superintelligence Paths, Dangers And Strategies - Nick Bostrom"
+-0.2114742379785169,0.0373232026813768,Les Sociétés Secrètes Et La Société Vol 2 - N. Deschamps
+-0.16018851988946892,-0.02103845022588834,Du Boulier à La Révolution Numérique : Algorithmes Et Informatique #13 - Vicenç Torra
+-0.20431556004267365,0.0025025046096172256,La Musique Du Xxème Siècle - Benoît Berthou
+-0.17112199719606555,0.03578559975939692,Le Rêve De La Raison : La Logique Mathématique Et Ses Paradoxes #19 - Javier Fresán
+-0.17917687626530243,0.006466863022391442,"Les Mesures Du Monde : Calendriers, Longueurs Et Mathématiques #34 - Iolanda Guevara Et Carles Puig"
+-0.24227209318484644,0.007200706842155828,La Cour Du Régent - Saint Simon
+-0.2278738523584741,-0.0352447091326371,"Le Royaume Des Animaux 8 : Epe Fel - Maurice Burton, Robert Burton "
+-0.17858837188745674,-0.04386601425654888,"French Touch, Une épopée électro - Stéphane Jourdain"
+-0.22613618977998295,-0.05334477540764544,"Le Royaume Des Animaux 4 : Cha Cig - Maurice Burton, Robert Burton "
+-0.21123354611014403,0.04605500474216378,Candide - Voltaire
+-0.1717221175084575,0.02444083219880518,"La Conquête Du Hasard : La Théorie Des Probabilités #21 - Fernando Corbalán, Gerardo Sanz"
+-0.008646090286421979,0.03862564187038979,"Traction : How Any Startup Can Achieve Explosive Customer Growth - Gabriel Weinberg, Justin Mares "
+-0.20409704577706733,0.013708212219484027,Ll’histoire Du Jazz - Mervyn Cooke
+-0.15568561940332454,0.027586018703044717,Les Secrets Du Nombre π : Pourquoi La Quadrature Du Cercle Est Elle Impossible ? #6 - Joaquín Navaro
+-0.19228020080407648,-0.007816107057678039,"Les Musiques Du Monde En Question - Jean Duvignaud, Chérif Khaznadar"
+-0.17455148745344218,0.008763113954216962,Théâtre Complet Tom 4 - William Shakespeare
+-0.16342160400090663,0.008330878132914629,Les Douze Travaux D'Hercule - Mythologie
+-0.2233425038337806,0.03585532714516116,Contes Choisis - Voltaire
+-0.20794364595310988,0.058001367555780156,L'odyssée - Homère
+-0.2180920203897687,-0.03196483283789631,"Le Royaume Des Animaux 12 : Heron Hibis - Maurice Burton, Robert Burton "
+-0.13233454291069785,0.04347774752007735,Geek Sublime - Vikram Chandra
+-0.11453103479624857,0.03184082868333589,Pauline - George Sand
+-0.22352452537320833,0.011619078970716607,Dodécade 2 - Librairie Ariane Adeline
+-0.17189250703739148,-0.015599188334951103,"Voyages Extraordinaires : Le Tour Du Monde En 80 Jours, Le Docteur Ox - Jules Verne"
+-0.15175808089521126,0.01918916991417092,Sidour Bné Issakhar - Unknown
+-0.21815735477203885,0.010912302019021594,Le Jazz - Philippe Hucher
+-0.2112398859367231,-0.0008243757675508903,La Chartreuse De Parme - Stendhal
+-0.20058350672240474,0.07035039811191243,"The Miles Davis Book  - Pierre Jean Crittin, Franck Fatalot"
+-0.08339693245815442,0.0471184666155715,Les 7 Habitudes De Ceux Qui Réalisent Tout Ce Qu'ils Entreprennent - Stephen R. Covey
+-0.17152447643319874,0.058366585371966005,"Le Solfège Pour Les Nuls - Michael Pilhofer, Holly Day, Jean Clément Jollet"
+-0.20747852744969175,0.017011566227495903,Toutes Les Mathématiques Du Monde - Hervé Lehning
+-0.20630300490797385,0.014039809923873268,Le Petit Larousse Grand Format 2005 - Christian Lacroix
+-0.2059322306915725,-0.05451664549294524,"Le Royaume Des Animaux 25 : Tribo Yéti - Maurice Burton, Robert Burton "
+-0.12508367974732296,0.04012070361479179,La Créativité En Mathématiques : Fonctionnement D'un Esprit D'exception #17 - Miquel Albertí
+-0.18175390286586002,-0.015036428569413294,Nouveau Manuel De Botanique élémentaire Et De Botanique Appliquée - M. Villette
+-0.04453709329555351,0.06223733591692828,1984 - Georges Orwell
+-0.18342613455940032,0.06400655882213221,Chopin - Franz Liszt
+-0.1899250613372392,0.01725578298122721,"L’egypte, Histoire Et Civilisation  - Unknown"
+-0.1893809702580306,0.0047629661998104065,On M'avait Dit Que C'était Impossible - Jean Baptiste Rudelle
+-0.19363341151775737,0.016193993437403062,Les Polyèdres : Les Mille Facettes De La Beauté Géométrique #20 - Fernando Corbalán
+-0.15689607370427625,-0.0065820249242117355,Les Formes Qui Se Déforment : La Topologie #32 - Vincente Muñoz
+-0.08822329066218507,0.0651754094802641,Sapiens - A Brief History of Humankind - Yuval Noah Harrari
+-0.17512207584318717,0.008517490399946731,La Secte Des Nombres : Le Théorème De Pythagore #4 - Claudi Alsina
+-0.1431891299989615,0.030867579058697255,"100 énigmes Logiques Et Mathématiques Du Temps Du Certificat D'études  - Sandra Lebrun, Loïc Audrain "
+-0.21831241631582166,0.011297986194180435,Petite Histoire De La Litterature Française - Emile Faguet
+-0.19170887337950038,0.0008115845742094488,Cours De Machines : Première Partie  - Haton De La Goupilliere 
+-0.12949161846053056,0.04794376940435015,"La Méthode Value Proposition Design - Alan Smith, Greg Bernarda, Yves Pigneur, Alex Osterwalder"
+-0.10689826527554638,0.08085624743190593,Eloquent Javascript - Marijn Haverbeke
+-0.2244853449531874,-0.0385586871648501,"Le Royaume Des Animaux 14 : Lépis Maca - Maurice Burton, Robert Burton "
+-0.16200064809931392,0.0006678404438850002,Une Nouvelle Manière De Voir Le Monde : La Géométrie Fractale #9 - Isabel Binimelis Bassa
+-0.1922720080668081,-0.018993042486523747,"La Monnaie, Un Enjeu Politique - J. M. Harribey, E. Jeffers, J. Marie, D. Plihon, J. F. Ponsot"
+-0.19476225430716024,0.028981971870115503,Connoiſſance De La Mythologie - Demandes Et Reponses
+-0.15349528205283489,0.008828995489514532,Blockchain   La Révolution De La Confiance  - Laurent Leloup 
+-0.2301140268358533,-0.023419684222940815,"Le Royaume Des Animaux 13 : Ichleu Lépis - Maurice Burton, Robert Burton "
+-0.0006191945480543878,0.0782532830695083,A Promised Land - Barack Obama
+-0.12749730609459878,-0.030521409547913284,Jimi Hendrix Electric Life : Biographie D'une Légende - Vincent Brunner
+-0.2222568290612354,0.0438736386640956,Les Métamorphoses - Ovide
+-0.20842767281160787,0.01917549344400007,Prestige De La Musique - Unknown
+-0.20080231060828002,-0.008301833637110453,"Oeuvres Complètes : La Main Gauche, L'inutile Beauté, Contes Divers, Fragments - Guy De Maupassaant"
+-0.20981671936602395,0.03660542668546105,Eugénie Grandet - Honoré De Balzac
+-0.2177973065199977,0.029631807669170313,Nana - Emile Zola
+-0.11502776965215031,0.04666021410367322,3 Minutes Pour Comprendre Les 50 Plus Grandes Théories Mathématiques  - Richard Brown
+-0.1819019168450221,-0.018627079281428965,Musiques électroniques - Guillaume Kosmicki
+0.04627163583412523,0.09997870281552718,Start With Why - How Great Leaders Inspire Everyone To Take Action - Simon Sinek
+-0.21677809265336978,0.02828152986430928,Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille
+0.0057320288207722,0.047766716818357695,Collecting old books
+0.09093628555378974,0.12300677778028811,Antilibrary
+-0.02332085759966182,0.005255743328018559,Classic French author as sociolgists and politicians
+0.06952792971914176,0.1259074013893256,Books
+0.060454054682655474,0.15435081918325513,Life changing books
+0.21033851278025892,-0.08222138372230484,Non exhaustive device list for smart home
+0.15979017247473687,-0.12797828403537198,Speakers
+0.16884119406034698,-0.11687183147662082,Displays
+0.1517600156284409,-0.15211367404586598,Doorbell
+0.17461310303384514,-0.1432934164128994,Security cameras
+0.16411468767255055,-0.13072367990328249,Garden
+0.17098628239254796,-0.08844885520127622,Locks
+0.18150243458668133,-0.12338406711981953,Thermostats and heaters
+0.15828818292644148,-0.12201701025222902,Lighting
+0.17481374036343378,-0.11674289799396136,Kitchen
+0.18020983482649713,-0.10865622922919951,Plugs
+0.1630834460335178,-0.10150615037067502,Vacuum cleaners
+0.1821096453907845,-0.11583597444647414,Miscellaneous devices
+0.2222534700093255,-0.0576708051369396,IoT
+0.266726796425342,-0.10521459071335316,Smart home
+0.2227996145433734,-0.10428720208795877,A brief history of IoT
+0.13670156478948337,-0.055286883526495675,README
+0.15263379720338435,-0.12326408407486975,Non Fungible Tokens (NFT)
+0.17859822163012234,-0.13438847759778655,Buying cryptocurrencies
+0.20784070957168985,-0.09084611336264671,Wallets
+0.10417188215693857,-0.07083731259195197,Architecture
+0.09705887690194671,0.023094180292366605,Library as space separation
+0.17283780161050152,-0.07779817909239302,Biophilic design
+0.05380833927660543,-0.13583431591916773,Bridges
+0.06920194919011624,-0.04930319802093029,The will to power
+0.13701092693833528,0.024757887599457764,Morality
+0.10304984700624634,-0.03164478211682585,Nihilism
+0.09133941060461498,0.009486951520425172,Übermensch
+0.10475724191528331,0.008139958613834916,Dualism
+0.15305609242186696,-0.07688555902248398,Contact me 💌
+0.17444707081743052,-0.12400446728930727,Virtual reality
+0.10324243428817095,-0.12114702256138853,Live music
+0.05298344936426532,-0.18007823095168116,Places in the north of France
+0.23131240668922234,0.01588894423238704,Software design principles applied to digital gardening
+0.2332453010063425,0.06566070445448247,Evergreen notes
+0.21839382716106148,-0.037980572895546,Digital garden
+0.19468764285264134,-0.014520980829723789,Atomic design applied to digital gardening
+0.20747301179842884,-0.023160030660815786,Digital garden inspirations
+0.1422098834567188,-0.05890722985996186,Graph evolution
+0.13453099901006038,-0.024542238837997207,Wikibsidian
+0.26037019118095345,0.042008526882670524,Keeping track of ideas
+0.23453330793735228,0.006212391851690429,Osmosis
+0.19600200740212664,-0.050980153956755855,Garden subjects
+0.17869149607818394,-0.042395733192944526,Tinder AI Bot
+0.19988430194107448,-0.09024989743822837,Personal digital art museum
+0.21725508327357532,-0.12358615650458553,The Pi-Dive
+0.19048149128055672,-0.07792133780091738,MVP (Minimum Viable Product)
+0.2455224315561471,0.04305878980975032,The Why
+0.1805736916933235,-0.12008402479461408,My journey at Station F
+-0.005985088179063339,-0.254929572185598,Vocabulaire
+-0.0021025419229582275,-0.24275420801047531,Vocabulary
+0.0950455345468282,-0.061037144611443224,Music sheet template
+0.1969524163933384,0.000674713102543697,Overconfidence bias
+0.21342328142570924,-0.053277576861786524,Rebound effect
+0.1642248689383812,-0.012978993513388569,Pygmalion effect
+0.12871544591265907,-0.03941127316209563,Milgram's experience
+0.17934455401543994,0.04245409853540093,Parkinson law
+0.24767683223615494,0.09209665470180128,Zeigarnik effect
+0.23459179368690508,0.06538990857763381,Making new friends
+0.27842522603177894,0.06101953030860086,Have better conversations
+0.2575177134347084,0.014132392606971212,Keeping relationships
+0.12529104180201178,-0.18948971115568716,Micronesia
+0.15967187289822632,-0.11344396638696791,Pre-requesites
+0.09002611412498163,-0.19921288813943053,Destinations
+0.037870222162228954,-0.1943645192056791,New Caledonia
+0.027229161729806148,-0.2074381635216569,French Polynesia
+0.1896443475644217,-0.1187763828808873,Scuba diving round-the-world trip
+0.060710385001195404,-0.17728586443521638,Serendipity
+0.02092321537714807,-0.21100927628662955,Madrier
+0.05168686693913779,-0.15299781691570702,Sagacité
+0.007459497345389371,-0.26528050583580387,Porion (contexte minier)
+-0.0035202491783018455,-0.21870855442189913,Planchéier
+0.021757599458198978,-0.2484101685645597,Minoterie
+0.031043333592497904,-0.2406682932453473,Rivelaine
+-2.520892131427073e-05,-0.23137777546764737,Échiner
+-0.021373090053504767,-0.21874396549060832,Poupine
+0.002816287640760216,-0.21588584145204337,Beffroi
+0.024758419091652467,-0.25081289824832664,Estaminet
+0.03585020283323581,-0.22093018067086448,Goberger
+0.01279357182220249,-0.24617355852380504,Sardonique
+-0.003321987153737417,-0.19686254588371405,Consubstantiel
+-0.007855529665991165,-0.2298168766921128,Dreyfusard
+0.026518216684190868,-0.23400761197874773,Haver
+0.00709381859117386,-0.2670682503720568,Nubile
+-0.024641551496013294,-0.21291774747312317,Scélératesse
+0.0014418070625102537,-0.1932226340949304,Prodigalité
+-0.008936111262243442,-0.1894488305181064,Liminaire
+-0.015858708126709333,-0.21864680817812027,Herscheur·euse
+0.027171066465421036,-0.24274049837822154,Nef
+-0.014114179816880209,-0.2343245782892485,Escaillage
+-0.01702041109038941,-0.20771500779451696,Scrofules
+0.0010402455305592992,-0.26102379312368496,Pétroleuse
+-0.016895312542716864,-0.27378600448025064,Lampisterie
+0.0256072644185686,-0.188686783117572,Ployer
+0.001884854190777988,-0.25298523752741237,Bombance
+-0.02223009013747471,-0.27388804080142254,Vieilles nippes
+0.006784666197297035,-0.2359788417553082,Hardi
+0.16039691433138542,-0.05582293887597373,Resolving Heroku slug size problem
+0.2240479647800358,0.12551680523690376,Adopting new habits
+0.27626611360224973,0.016721685130411962,Microproductivity
+0.2338412068766787,0.07217793972938144,Mind maps
+0.2408120492637974,-0.026012053473555067,My productivity tools
+0.22598537193394924,-0.006804735113060922,MVD (Minimum Viable Day)
+0.20566690478125346,-0.024206751586225816,Decision fatigue
+0.2606075016232604,0.029048234211468894,Multitasking is counterproductive
+0.23939831780277893,0.09879712666800423,Growth mindset
+0.21116326263672172,-0.022492390476473906,Social media detox
+0.2338135149707131,0.12778481367094732,Thinking in writing
+0.18629736003766062,-0.03373592309968544,Ego depletion
