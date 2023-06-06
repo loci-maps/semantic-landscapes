@@ -21,20 +21,65 @@ dim_reduction_values = {
     "umap5": [0.00005, 4.5]
 }
 
-def create_voronoi_gdf(polygons, edges):
+
+def flat_mesh_to_terrain(mesh, dim_reduction='umap5'):
+    if dim_reduction not in dim_reduction_values:
+        raise ValueError(f"Unknown dim_reduction value: {dim_reduction}")
+        
+    factor, alpha = dim_reduction_values[dim_reduction]
+    
+    warp = mesh.warp_by_scalar(factor=factor)
+    surf = warp.delaunay_2d(alpha=alpha)
+    surf_smoothed = surf.smooth(n_iter=150)
+    
+    return surf_smoothed
+
+def interpolate_z(file_points, terrain):
+    file_points_coords = file_points.points
+    terrain_coords = terrain.points
+
+    # Use only X and Y for interpolation
+    points_xy = file_points_coords[:, :2]
+    terrain_xy = terrain_coords[:, :2]
+
+    # Interpolate Z values from terrain onto point positions
+    interpolated_z = griddata(terrain_xy, terrain_coords[:, 2], points_xy)
+
+    # Create a new set of points with the interpolated Z values
+    new_points = np.hstack((points_xy, interpolated_z.reshape(-1, 1)))
+
+    file_points.points = new_points
+    return file_points
+
+def file_coord_to_dataframe(points, mesh, csv_file='test_dataframe.csv'):
+    
+    file_coords = points.points
+    face_labels = mesh.cell_data['FaceLabels']
+
+    df = pd.DataFrame(file_coords, columns=['X', 'Y', 'Z'])
+    df['FaceLabels'] = face_labels
+
+    df.to_csv(csv_file, index=False)
+
+
+def create_voronoi_gdf(polygons, edges, filenames):
     voronoi_polygons = []
+    voronoi_filenames = []
 
     for i, polygon in enumerate(polygons.geoms):
         clipped_polygon = polygon.intersection(edges)
         voronoi_polygons.append(clipped_polygon)
+        voronoi_filenames.append(filenames[i])
 
     gdf = gpd.GeoDataFrame(geometry=voronoi_polygons)
+    gdf['filename'] = voronoi_filenames  
     return gdf
 
-def gdf_to_flat_mesh(gdf, labels, rgb):
+def gdf_to_flat_mesh(gdf, rgb):
     
     gdf['area'] = gdf['geometry'].area
     gdf = gdf.sort_values('area').reset_index(drop=True)
+    labels = gdf['filename']
 
     vertices = []
     faces = []
@@ -79,67 +124,28 @@ def gdf_to_flat_mesh(gdf, labels, rgb):
     
 
     return mesh
-
-def flat_mesh_to_terrain(mesh, dim_reduction='umap5'):
-    if dim_reduction not in dim_reduction_values:
-        raise ValueError(f"Unknown dim_reduction value: {dim_reduction}")
-        
-    factor, alpha = dim_reduction_values[dim_reduction]
-    
-    warp = mesh.warp_by_scalar(factor=factor)
-    surf = warp.delaunay_2d(alpha=alpha)
-    surf_smoothed = surf.smooth(n_iter=150)
-    
-    return surf_smoothed
-
-def interpolate_z(file_points, terrain):
-    file_points_coords = file_points.points
-    terrain_coords = terrain.points
-
-    # Use only X and Y for interpolation
-    points_xy = file_points_coords[:, :2]
-    terrain_xy = terrain_coords[:, :2]
-
-    # Interpolate Z values from terrain onto point positions
-    interpolated_z = griddata(terrain_xy, terrain_coords[:, 2], points_xy)
-
-    # Create a new set of points with the interpolated Z values
-    new_points = np.hstack((points_xy, interpolated_z.reshape(-1, 1)))
-
-    file_points.points = new_points
-    return file_points
-
-def file_coord_to_dataframe(points, mesh, csv_file='test_dataframe.csv'):
-    
-    file_coords = points.points
-    face_labels = mesh.cell_data['FaceLabels']
-
-    df = pd.DataFrame(file_coords, columns=['X', 'Y', 'Z'])
-    df['FaceLabels'] = face_labels
-
-    df.to_csv(csv_file, index=False)
-
 #---------------------------
 
 # ['pca5', 'tsne2', 'umap5', 'umap2']
 rgb = embeddings_npz['pca5'][:, :3]
-xy = embeddings_npz['pca5'] [:,:2]
+xy = embeddings_npz['umap2'] #[:,:2]
 
 points = MultiPoint(xy)
 hull = convex_hull(points) 
 polygons = voronoi_polygons(points)
 
-gdf = create_voronoi_gdf(polygons, hull)
+gdf = create_voronoi_gdf(polygons, hull, filenames[0])
 
-mesh = gdf_to_flat_mesh(gdf, filenames[0], rgb)
+mesh = gdf_to_flat_mesh(gdf, rgb)
 centers = mesh.cell_centers()
 
-smooth = flat_mesh_to_terrain(mesh, 'pca5')
+smooth = flat_mesh_to_terrain(mesh, 'umap2')
 
 image_path = examples.planets.download_milkyway_sky_background(load=False)
 
 
 file_points = interpolate_z(centers, smooth)
+
 
 
 pl = pv.Plotter()
